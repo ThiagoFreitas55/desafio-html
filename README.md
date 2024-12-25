@@ -10,4 +10,4 @@
 <br>
 <h2>Print do Desafio HTML</h2>
 <br>
-<img src="./print.png" alt="Montagem-Print">
+<img src="./print-tela.png" alt="Montagem-Print">
